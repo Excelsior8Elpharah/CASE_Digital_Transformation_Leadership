@@ -17,7 +17,7 @@ export default function LessonsPDCA() {
       <div className="storytelling mb-8 p-6 bg-gradient-to-r from-cyan-900/50 to-slate-800 rounded-2xl border border-cyan-500/30 shadow-2xl">
         <h3 className="text-xl font-bold text-cyan-300 mb-2">📖 Jornada da Transformação</h3>
         <p className="text-slate-300 leading-relaxed">
-          Lessons Learned database captura 43 lições reais: "Piloto 3 lojas > 30" salvou R$1.8M. Knowledge transfer 360° acelerou Fase2 27%.
+          Lessons Learned database captura 43 lições reais: "Piloto 3 lojas {'>'} 30" salvou R$1.8M. Knowledge transfer 360° acelerou Fase2 27%.
         </p>
       </div>
 
